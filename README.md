@@ -2,21 +2,13 @@
 
 A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 
-<p align="center">
-  <img width="300" height="300" src="https://geogerservices.files.wordpress.com/2018/06/scenefromabovepodcast.jpg?w=300&h=300">
-</p>
-
-The [#scenefromabove podcast](https://scenefromabove.podbean.com/) aimed to be a mix of news, opinion, discussion and interviews. I am no longer involved in the podcast, however it is still going<br>
+Please note that this is <b>not</b> offically an awesome list.
 
 ## Latest news
 
-I have written a blog post about how this repo came into being. It includes a video of a talk I gave about it AND a podcast episode devoted to it. http://www.acgeospatial.co.uk/awesome-earthobservation-code/
+<b> Update May 2026</b> Any links to my (old) website will cease this month - the old blogs are archive in another repo. If you want the latest news in EO I recommend [Spectral Reflectance](https://www.spectralreflectance.space/). My self employment ended in March 2026 but my love and joy for all things EO has not you can find me on LinkedIn [Andrew Cutts](https://www.linkedin.com/in/andrewcutts/)
 
-Please note that this is <b>not</b> offically an awesome list.
-
-<b> Update Jan 2026</b> More developer links added. I accept PR's and you get a mention in the contributors file.
-
-<b> A note of caution </b> During the QC of links I note that the vast majority are 2years+ old or considerbly older. Some repos are retired and still visible, some code is > 10 years old. Tread carefully. This list is open to PR's and suggestions, it is updated infrequently by myself. If you find a link that is helpful, share it! We have 1.3k stars now so plenty of eyes on it. You will get acknowledged in the contributors file.
+<b> A note of caution </b> During the QC of links I note that the vast majority are 2years+ old or considerably older. Some repos are retired and still visible, some code is > 10 years old. Tread carefully. This list is open to PR's and suggestions, it is updated infrequently by myself. If you find a link that is helpful, share it! We have 1.3k stars now so plenty of eyes on it. You will get acknowledged in the contributors file.
 
 Annotations are based on the headers - and where available - on the github accounts
 
